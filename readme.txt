@@ -1,6 +1,6 @@
 === Coordina Project Wizard ===
-Contributors: coordina
-Tags: project management, wizard, templates, onboarding, workflow
+Contributors: khalidhamada
+Tags: project management, project, project manager, task management
 Requires at least: 6.6
 Tested up to: 6.6
 Requires PHP: 7.4
@@ -25,10 +25,21 @@ Key capabilities:
 
 == Installation ==
 
-1. Upload the `coordina-project-wizard` folder to `/wp-content/plugins/`.
-2. Activate the main Coordina plugin (https://github.com/khalidhamada/coordina)
-3. Activate Coordina Project Wizard.
-4. Launch the wizard from the Coordina Projects area.
+1. Upload the coordina-project-wizard folder to /wp-content/plugins/.
+2. Install the main Coordina plugin from https://github.com/khalidhamada/coordina
+3. Activate the main Coordina plugin.
+4. Activate Coordina Project Wizard.
+5. Launch the wizard from the Coordina Projects area.
+
+If Coordina core is missing or inactive, this add-on will refuse activation and will show an admin notice until the dependency is available.
+
+== Screenshots ==
+
+1. Template selection step using the normalized project template catalog.
+2. Project details step with prefilled defaults from the selected template.
+3. Milestones step for reviewing and tailoring the starter structure.
+4. Tasks step for editing kickoff work before project creation.
+5. Final review step before the add-on scaffolds the project.
 
 == Frequently Asked Questions ==
 
@@ -52,6 +63,7 @@ Yes. The wizard lets users include, exclude, edit, and add milestones, tasks, an
 * Added a normalized JSON template catalog and dedicated catalog service
 * Added scaffold creation for milestones, tasks, risks, and optional kickoff task
 * Added standalone repo-ready docs, release notes, memory files, and distribution metadata
+* Added release screenshots and a hard activation dependency check for Coordina core
 
 == Upgrade Notice ==
 

@@ -19,9 +19,34 @@ Coordina Project Wizard is a separately packaged WordPress add-on for Coordina. 
 ## Installation
 
 1. Copy the `coordina-project-wizard` folder into `wp-content/plugins/`.
-2. Make sure the main Coordina plugin is installed and activated.
-3. Activate `Coordina Project Wizard` from the WordPress Plugins screen.
-4. Open the Coordina Projects area and launch the wizard.
+2. Install the main Coordina plugin from https://github.com/khalidhamada/coordina.
+3. Activate the main Coordina plugin.
+4. Activate `Coordina Project Wizard` from the WordPress Plugins screen.
+5. Open the Coordina Projects area and launch the wizard.
+
+If Coordina core is missing or inactive, WordPress will block this add-on from activating and show an admin notice until the dependency is available.
+
+## Screenshots
+
+### Template Selection
+
+![Project wizard template selection](releases/v0.2.0/src/coordina-wizard-template-v0.2.0.png)
+
+### Project Details
+
+![Project wizard project details](releases/v0.2.0/src/coordina-wizard-info-v0.2.0.png)
+
+### Milestone Planning
+
+![Project wizard milestone planning](releases/v0.2.0/src/coordina-wizard-milestones-v0.2.0.png)
+
+### Starter Tasks
+
+![Project wizard starter tasks](releases/v0.2.0/src/coordina-wizard-tasks-v0.2.0.png)
+
+### Final Review
+
+![Project wizard final review](releases/v0.2.0/src/coordina-wizard-review-v0.2.0.png)
 
 ## Architecture Notes
 

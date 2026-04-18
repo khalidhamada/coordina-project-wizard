@@ -11,4 +11,6 @@ Coordina Project Wizard 0.2.0 is the first separately packaged release of the ad
 
 **Highlights:** Multi-step wizard • JSON template catalog • Contract-backed scaffolding • Standalone repo packaging
 
+**Release media:** Includes step-by-step wizard screenshots in `releases/v0.2.0/src/`
+
 [View full details →](releases/v0.2.0/RELEASE_NOTES.md)

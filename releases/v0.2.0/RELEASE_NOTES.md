@@ -29,6 +29,33 @@ Coordina Project Wizard 0.2.0 is the first separately packaged release of the ad
 - added `.gitignore` tuned for an isolated plugin repository
 - versioned the separately packaged plugin as `0.2.0`
 
+### The Release Now Includes Screenshot Coverage And Dependency Guardrails
+- added release screenshots for the template selection, project details, milestones, tasks, and final review steps under `releases/v0.2.0/src/`
+- the add-on now refuses activation unless the main Coordina plugin is installed and active
+- admin users now get a clear dashboard notice when Coordina Project Wizard is present without its required core dependency
+
+## Screenshots
+
+### Template Selection
+
+![Project wizard template selection](src/coordina-wizard-template-v0.2.0.png)
+
+### Project Details
+
+![Project wizard project details](src/coordina-wizard-info-v0.2.0.png)
+
+### Milestone Planning
+
+![Project wizard milestone planning](src/coordina-wizard-milestones-v0.2.0.png)
+
+### Starter Tasks
+
+![Project wizard starter tasks](src/coordina-wizard-tasks-v0.2.0.png)
+
+### Final Review
+
+![Project wizard final review](src/coordina-wizard-review-v0.2.0.png)
+
 ## Why This Matters
 
 - teams can start projects from reusable templates without manual setup repetition
