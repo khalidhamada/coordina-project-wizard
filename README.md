@@ -14,7 +14,7 @@ Coordina Project Wizard is a separately packaged WordPress add-on for Coordina. 
 
 - WordPress 6.6 or newer
 - PHP 7.4 or newer
-- Coordina core plugin with the modular platform layer available
+- Coordina core plugin with the modular platform layer available [https://github.com/khalidhamada/coordina](https://github.com/khalidhamada/coordina)
 
 ## Installation
 
@@ -35,7 +35,6 @@ Coordina Project Wizard is a separately packaged WordPress add-on for Coordina. 
 
 - Release index: [RELEASE_NOTES.md](RELEASE_NOTES.md)
 - Current release notes: [releases/v0.2.0/RELEASE_NOTES.md](releases/v0.2.0/RELEASE_NOTES.md)
-- Add-on memory docs: [docs/memory/CONTEXT.md](docs/memory/CONTEXT.md)
 
 ## Version
 

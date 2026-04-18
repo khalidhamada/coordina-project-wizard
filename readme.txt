@@ -26,7 +26,7 @@ Key capabilities:
 == Installation ==
 
 1. Upload the `coordina-project-wizard` folder to `/wp-content/plugins/`.
-2. Activate the main Coordina plugin.
+2. Activate the main Coordina plugin (https://github.com/khalidhamada/coordina)
 3. Activate Coordina Project Wizard.
 4. Launch the wizard from the Coordina Projects area.
 
