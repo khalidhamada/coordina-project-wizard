@@ -5,6 +5,7 @@ vendor/
 .DS_Store
 Thumbs.db
 .codex-staging/
+docs/
 *.zip
 *.log
 npm-debug.log*
