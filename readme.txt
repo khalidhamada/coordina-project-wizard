@@ -2,18 +2,18 @@
 Contributors: khalidhamada
 Tags: project management, project, project manager, task management
 Requires at least: 6.6
-Tested up to: 6.6
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: coordina-project-wizard
 
-Guided, template-driven project setup add-on for Coordina.
+Guided project setup plugin for Coordina.
 
 == Description ==
 
-Coordina Project Wizard adds a multi-step project setup flow on top of Coordina's modular platform.
+Coordina Project Wizard adds a guided project setup flow for Coordina.
 
 Key capabilities:
 
@@ -21,7 +21,7 @@ Key capabilities:
 * Multi-step guided flow for project details, milestones, tasks, and risks
 * Template catalog stored in JSON for cleaner add-on architecture
 * Contract-backed project creation through Coordina's public platform layer
-* Add-on-scoped defaults and route-only admin page integration
+* Plugin-scoped defaults and route-only admin page integration
 
 == Installation ==
 

@@ -135,14 +135,14 @@ final class ProjectWizardService {
 		$title = \sanitize_text_field( (string) ( $payload['title'] ?? '' ) );
 
 		if ( '' === $title ) {
-			throw new RuntimeException( \__( 'Project title is required.', 'coordina-project-wizard' ) );
+			throw new RuntimeException( \esc_html__( 'Project title is required.', 'coordina-project-wizard' ) );
 		}
 
 		$template_key = $this->sanitize_choice( (string) ( $payload['template_key'] ?? $settings['default_template'] ), $template_keys, $settings['default_template'] );
 		$template     = $this->template_catalog->find( $template_key );
 
 		if ( empty( $template ) ) {
-			throw new RuntimeException( \__( 'A valid project template is required.', 'coordina-project-wizard' ) );
+			throw new RuntimeException( \esc_html__( 'A valid project template is required.', 'coordina-project-wizard' ) );
 		}
 
 		$status       = $this->sanitize_choice( (string) ( $payload['status'] ?? $settings['default_status'] ), $project_statuses, $settings['default_status'] );
@@ -181,7 +181,7 @@ final class ProjectWizardService {
 		$project_id = (int) ( $project['id'] ?? 0 );
 
 		if ( $project_id <= 0 ) {
-			throw new RuntimeException( \__( 'Project could not be created.', 'coordina-project-wizard' ) );
+			throw new RuntimeException( \esc_html__( 'Project could not be created.', 'coordina-project-wizard' ) );
 		}
 
 		if ( ! empty( $team_members ) ) {

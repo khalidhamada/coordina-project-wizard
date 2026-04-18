@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Coordina Project Wizard
- * Plugin URI: https://example.com/coordina-project-wizard
+ * Plugin URI: https://github.com/khalidhamada/coordina-project-wizard
  * Description: Guided project setup add-on for Coordina.
  * Version: 0.2.0
  * Requires at least: 6.6
  * Requires PHP: 7.4
  * Author: Khalid Hamada
- * Author URI: https://example.com
+ * Author URI: https://khalidhamada.com
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: coordina-project-wizard

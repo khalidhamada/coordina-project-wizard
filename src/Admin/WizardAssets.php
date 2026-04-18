@@ -7,6 +7,10 @@ declare(strict_types=1);
 
 namespace CoordinaProjectWizard\Admin;
 
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
 final class WizardAssets {
 	public function register(): void {
 		add_action( 'admin_enqueue_scripts', array( $this, 'enqueue' ) );
@@ -17,7 +21,8 @@ final class WizardAssets {
 			return;
 		}
 
-		$page = isset( $_GET['page'] ) ? sanitize_key( wp_unslash( $_GET['page'] ) ) : '';
+		$page = filter_input( INPUT_GET, 'page', FILTER_UNSAFE_RAW );
+		$page = is_string( $page ) ? sanitize_key( wp_unslash( $page ) ) : '';
 
 		if ( 'coordina-project-wizard' !== $page ) {
 			return;
