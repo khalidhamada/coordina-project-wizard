@@ -1,0 +1,4785 @@
+{
+  "version": 1,
+  "generated_from": "coordina/project_templates.json",
+  "templates": [
+    {
+      "key": "website-development",
+      "title": "Website Development",
+      "description": "A project to plan, design, build, test, and launch a new website or major website redesign.",
+      "wizard_summary": "Creates a standard website project with discovery, design, development, testing, content population, and launch preparation tasks.",
+      "phases": [
+        {
+          "key": "discovery-and-planning",
+          "title": "Discovery and Planning"
+        },
+        {
+          "key": "design",
+          "title": "Design"
+        },
+        {
+          "key": "content-preparation",
+          "title": "Content Preparation"
+        },
+        {
+          "key": "development",
+          "title": "Development"
+        },
+        {
+          "key": "testing-and-review",
+          "title": "Testing and Review"
+        },
+        {
+          "key": "launch",
+          "title": "Launch"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "requirements-approved",
+          "title": "Requirements approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "design-approved",
+          "title": "Design approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "development-completed",
+          "title": "Development completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "uat-completed",
+          "title": "UAT completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "website-launched",
+          "title": "Website launched",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "discovery-and-planning-define-project-goals",
+          "title": "Define project goals",
+          "phase": "Discovery and Planning",
+          "phase_key": "discovery-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "discovery-and-planning-identify-target-audience",
+          "title": "Identify target audience",
+          "phase": "Discovery and Planning",
+          "phase_key": "discovery-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "discovery-and-planning-gather-business-requirements",
+          "title": "Gather business requirements",
+          "phase": "Discovery and Planning",
+          "phase_key": "discovery-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "discovery-and-planning-define-site-structure-and-key-pages",
+          "title": "Define site structure and key pages",
+          "phase": "Discovery and Planning",
+          "phase_key": "discovery-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "discovery-and-planning-confirm-scope-and-timeline",
+          "title": "Confirm scope and timeline",
+          "phase": "Discovery and Planning",
+          "phase_key": "discovery-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-create-sitemap",
+          "title": "Create sitemap",
+          "phase": "Design",
+          "phase_key": "design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-prepare-wireframes",
+          "title": "Prepare wireframes",
+          "phase": "Design",
+          "phase_key": "design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-design-homepage-mockup",
+          "title": "Design homepage mockup",
+          "phase": "Design",
+          "phase_key": "design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-design-internal-page-layouts",
+          "title": "Design internal page layouts",
+          "phase": "Design",
+          "phase_key": "design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-review-and-approve-ui-design",
+          "title": "Review and approve UI design",
+          "phase": "Design",
+          "phase_key": "design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-preparation-gather-existing-content",
+          "title": "Gather existing content",
+          "phase": "Content Preparation",
+          "phase_key": "content-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-preparation-write-or-revise-page-content",
+          "title": "Write or revise page content",
+          "phase": "Content Preparation",
+          "phase_key": "content-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-preparation-prepare-images-and-media",
+          "title": "Prepare images and media",
+          "phase": "Content Preparation",
+          "phase_key": "content-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-preparation-review-seo-basics-for-pages",
+          "title": "Review SEO basics for pages",
+          "phase": "Content Preparation",
+          "phase_key": "content-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-set-up-project-environment",
+          "title": "Set up project environment",
+          "phase": "Development",
+          "phase_key": "development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-build-frontend-pages",
+          "title": "Build frontend pages",
+          "phase": "Development",
+          "phase_key": "development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-configure-cms-or-backend",
+          "title": "Configure CMS or backend",
+          "phase": "Development",
+          "phase_key": "development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-implement-contact-forms",
+          "title": "Implement contact forms",
+          "phase": "Development",
+          "phase_key": "development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-add-responsive-behavior",
+          "title": "Add responsive behavior",
+          "phase": "Development",
+          "phase_key": "development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-and-review-test-links-and-navigation",
+          "title": "Test links and navigation",
+          "phase": "Testing and Review",
+          "phase_key": "testing-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-and-review-test-forms",
+          "title": "Test forms",
+          "phase": "Testing and Review",
+          "phase_key": "testing-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-and-review-test-mobile-responsiveness",
+          "title": "Test mobile responsiveness",
+          "phase": "Testing and Review",
+          "phase_key": "testing-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-and-review-review-content-accuracy",
+          "title": "Review content accuracy",
+          "phase": "Testing and Review",
+          "phase_key": "testing-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-and-review-fix-defects",
+          "title": "Fix defects",
+          "phase": "Testing and Review",
+          "phase_key": "testing-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-prepare-production-deployment",
+          "title": "Prepare production deployment",
+          "phase": "Launch",
+          "phase_key": "launch",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-configure-domain-and-hosting",
+          "title": "Configure domain and hosting",
+          "phase": "Launch",
+          "phase_key": "launch",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-perform-final-checks",
+          "title": "Perform final checks",
+          "phase": "Launch",
+          "phase_key": "launch",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-go-live",
+          "title": "Go live",
+          "phase": "Launch",
+          "phase_key": "launch",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-conduct-post-launch-monitoring",
+          "title": "Conduct post-launch monitoring",
+          "phase": "Launch",
+          "phase_key": "launch",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "delayed-content-from-client",
+          "title": "Delayed content from client",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "scope-creep-on-design-pages",
+          "title": "Scope creep on design pages",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "hosting-or-dns-issues",
+          "title": "Hosting or DNS issues",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "browser-compatibility-issues",
+          "title": "Browser compatibility issues",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "late-feedback-cycles",
+          "title": "Late feedback cycles",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 29,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "erp-implementation",
+      "title": "ERP Implementation",
+      "description": "A project to implement or roll out an ERP system across one department, business unit, or full company.",
+      "wizard_summary": "Creates a structured ERP implementation project with requirements, design, configuration, data migration, testing, training, and go-live tasks.",
+      "phases": [
+        {
+          "key": "initiation",
+          "title": "Initiation"
+        },
+        {
+          "key": "requirements-and-process-mapping",
+          "title": "Requirements and Process Mapping"
+        },
+        {
+          "key": "solution-design",
+          "title": "Solution Design"
+        },
+        {
+          "key": "build-and-configuration",
+          "title": "Build and Configuration"
+        },
+        {
+          "key": "data-migration-and-testing",
+          "title": "Data Migration and Testing"
+        },
+        {
+          "key": "training-and-go-live",
+          "title": "Training and Go-Live"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "requirements-signed-off",
+          "title": "Requirements signed off",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "solution-design-approved",
+          "title": "Solution design approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "configuration-completed",
+          "title": "Configuration completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "uat-signed-off",
+          "title": "UAT signed off",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "go-live-completed",
+          "title": "Go-live completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "initiation-define-business-objectives",
+          "title": "Define business objectives",
+          "phase": "Initiation",
+          "phase_key": "initiation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-identify-stakeholders",
+          "title": "Identify stakeholders",
+          "phase": "Initiation",
+          "phase_key": "initiation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-confirm-modules-in-scope",
+          "title": "Confirm modules in scope",
+          "phase": "Initiation",
+          "phase_key": "initiation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-assign-project-team",
+          "title": "Assign project team",
+          "phase": "Initiation",
+          "phase_key": "initiation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-prepare-project-charter",
+          "title": "Prepare project charter",
+          "phase": "Initiation",
+          "phase_key": "initiation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "requirements-and-process-mapping-gather-current-process-details",
+          "title": "Gather current process details",
+          "phase": "Requirements and Process Mapping",
+          "phase_key": "requirements-and-process-mapping",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "requirements-and-process-mapping-document-pain-points",
+          "title": "Document pain points",
+          "phase": "Requirements and Process Mapping",
+          "phase_key": "requirements-and-process-mapping",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "requirements-and-process-mapping-define-future-state-processes",
+          "title": "Define future-state processes",
+          "phase": "Requirements and Process Mapping",
+          "phase_key": "requirements-and-process-mapping",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "requirements-and-process-mapping-confirm-reporting-needs",
+          "title": "Confirm reporting needs",
+          "phase": "Requirements and Process Mapping",
+          "phase_key": "requirements-and-process-mapping",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "requirements-and-process-mapping-sign-off-requirements",
+          "title": "Sign off requirements",
+          "phase": "Requirements and Process Mapping",
+          "phase_key": "requirements-and-process-mapping",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "solution-design-configure-system-design",
+          "title": "Configure system design",
+          "phase": "Solution Design",
+          "phase_key": "solution-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "solution-design-define-roles-and-permissions",
+          "title": "Define roles and permissions",
+          "phase": "Solution Design",
+          "phase_key": "solution-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "solution-design-define-integrations",
+          "title": "Define integrations",
+          "phase": "Solution Design",
+          "phase_key": "solution-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "solution-design-prepare-data-migration-approach",
+          "title": "Prepare data migration approach",
+          "phase": "Solution Design",
+          "phase_key": "solution-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "solution-design-review-solution-with-stakeholders",
+          "title": "Review solution with stakeholders",
+          "phase": "Solution Design",
+          "phase_key": "solution-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "build-and-configuration-configure-master-data-settings",
+          "title": "Configure master data settings",
+          "phase": "Build and Configuration",
+          "phase_key": "build-and-configuration",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "build-and-configuration-configure-workflows",
+          "title": "Configure workflows",
+          "phase": "Build and Configuration",
+          "phase_key": "build-and-configuration",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "build-and-configuration-configure-forms-and-reports",
+          "title": "Configure forms and reports",
+          "phase": "Build and Configuration",
+          "phase_key": "build-and-configuration",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "build-and-configuration-set-up-integrations",
+          "title": "Set up integrations",
+          "phase": "Build and Configuration",
+          "phase_key": "build-and-configuration",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "build-and-configuration-prepare-test-environment",
+          "title": "Prepare test environment",
+          "phase": "Build and Configuration",
+          "phase_key": "build-and-configuration",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "data-migration-and-testing-clean-source-data",
+          "title": "Clean source data",
+          "phase": "Data Migration and Testing",
+          "phase_key": "data-migration-and-testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "data-migration-and-testing-map-source-to-target-fields",
+          "title": "Map source to target fields",
+          "phase": "Data Migration and Testing",
+          "phase_key": "data-migration-and-testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "data-migration-and-testing-load-test-data",
+          "title": "Load test data",
+          "phase": "Data Migration and Testing",
+          "phase_key": "data-migration-and-testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "data-migration-and-testing-execute-system-testing",
+          "title": "Execute system testing",
+          "phase": "Data Migration and Testing",
+          "phase_key": "data-migration-and-testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "data-migration-and-testing-execute-user-acceptance-testing",
+          "title": "Execute user acceptance testing",
+          "phase": "Data Migration and Testing",
+          "phase_key": "data-migration-and-testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "training-and-go-live-prepare-training-materials",
+          "title": "Prepare training materials",
+          "phase": "Training and Go-Live",
+          "phase_key": "training-and-go-live",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "training-and-go-live-conduct-user-training",
+          "title": "Conduct user training",
+          "phase": "Training and Go-Live",
+          "phase_key": "training-and-go-live",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "training-and-go-live-finalize-cutover-plan",
+          "title": "Finalize cutover plan",
+          "phase": "Training and Go-Live",
+          "phase_key": "training-and-go-live",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "training-and-go-live-perform-production-migration",
+          "title": "Perform production migration",
+          "phase": "Training and Go-Live",
+          "phase_key": "training-and-go-live",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "training-and-go-live-go-live-and-support-hypercare",
+          "title": "Go live and support hypercare",
+          "phase": "Training and Go-Live",
+          "phase_key": "training-and-go-live",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "poor-data-quality",
+          "title": "Poor data quality",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "unclear-requirements",
+          "title": "Unclear requirements",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "resistance-to-process-change",
+          "title": "Resistance to process change",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "integration-failures",
+          "title": "Integration failures",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "inadequate-user-training",
+          "title": "Inadequate user training",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "mobile-app-development",
+      "title": "Mobile App Development",
+      "description": "A project to design, build, test, and publish a mobile application.",
+      "wizard_summary": "Creates a mobile app project with product planning, UI/UX design, development, QA, store readiness, and launch activities.",
+      "phases": [
+        {
+          "key": "product-definition",
+          "title": "Product Definition"
+        },
+        {
+          "key": "ux-and-ui-design",
+          "title": "UX and UI Design"
+        },
+        {
+          "key": "development-setup",
+          "title": "Development Setup"
+        },
+        {
+          "key": "app-development",
+          "title": "App Development"
+        },
+        {
+          "key": "testing",
+          "title": "Testing"
+        },
+        {
+          "key": "release",
+          "title": "Release"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "mvp-scope-approved",
+          "title": "MVP scope approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "design-approved",
+          "title": "Design approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "feature-complete-build-ready",
+          "title": "Feature-complete build ready",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "testing-completed",
+          "title": "Testing completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "app-published",
+          "title": "App published",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "product-definition-define-app-purpose",
+          "title": "Define app purpose",
+          "phase": "Product Definition",
+          "phase_key": "product-definition",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "product-definition-identify-users-and-use-cases",
+          "title": "Identify users and use cases",
+          "phase": "Product Definition",
+          "phase_key": "product-definition",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "product-definition-define-mvp-scope",
+          "title": "Define MVP scope",
+          "phase": "Product Definition",
+          "phase_key": "product-definition",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "product-definition-prepare-feature-list",
+          "title": "Prepare feature list",
+          "phase": "Product Definition",
+          "phase_key": "product-definition",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "product-definition-confirm-timeline",
+          "title": "Confirm timeline",
+          "phase": "Product Definition",
+          "phase_key": "product-definition",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "ux-and-ui-design-create-user-flows",
+          "title": "Create user flows",
+          "phase": "UX and UI Design",
+          "phase_key": "ux-and-ui-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "ux-and-ui-design-prepare-wireframes",
+          "title": "Prepare wireframes",
+          "phase": "UX and UI Design",
+          "phase_key": "ux-and-ui-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "ux-and-ui-design-design-key-screens",
+          "title": "Design key screens",
+          "phase": "UX and UI Design",
+          "phase_key": "ux-and-ui-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "ux-and-ui-design-review-user-experience",
+          "title": "Review user experience",
+          "phase": "UX and UI Design",
+          "phase_key": "ux-and-ui-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "ux-and-ui-design-finalize-design-assets",
+          "title": "Finalize design assets",
+          "phase": "UX and UI Design",
+          "phase_key": "ux-and-ui-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-setup-set-up-repository",
+          "title": "Set up repository",
+          "phase": "Development Setup",
+          "phase_key": "development-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-setup-configure-environments",
+          "title": "Configure environments",
+          "phase": "Development Setup",
+          "phase_key": "development-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-setup-set-coding-standards",
+          "title": "Set coding standards",
+          "phase": "Development Setup",
+          "phase_key": "development-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-setup-set-up-backend-api-access",
+          "title": "Set up backend/API access",
+          "phase": "Development Setup",
+          "phase_key": "development-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "development-setup-prepare-database-or-services",
+          "title": "Prepare database or services",
+          "phase": "Development Setup",
+          "phase_key": "development-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "app-development-build-authentication",
+          "title": "Build authentication",
+          "phase": "App Development",
+          "phase_key": "app-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "app-development-build-core-app-screens",
+          "title": "Build core app screens",
+          "phase": "App Development",
+          "phase_key": "app-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "app-development-integrate-api-services",
+          "title": "Integrate API/services",
+          "phase": "App Development",
+          "phase_key": "app-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "app-development-implement-notifications-if-needed",
+          "title": "Implement notifications if needed",
+          "phase": "App Development",
+          "phase_key": "app-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "app-development-complete-settings-profile-features",
+          "title": "Complete settings/profile features",
+          "phase": "App Development",
+          "phase_key": "app-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-functional-testing",
+          "title": "Functional testing",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-device-testing",
+          "title": "Device testing",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-performance-testing",
+          "title": "Performance testing",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-security-review",
+          "title": "Security review",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-bug-fixing",
+          "title": "Bug fixing",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "release-prepare-app-store-assets",
+          "title": "Prepare app store assets",
+          "phase": "Release",
+          "phase_key": "release",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "release-prepare-privacy-policy-texts",
+          "title": "Prepare privacy/policy texts",
+          "phase": "Release",
+          "phase_key": "release",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "release-submit-to-app-stores",
+          "title": "Submit to app stores",
+          "phase": "Release",
+          "phase_key": "release",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "release-release-production-version",
+          "title": "Release production version",
+          "phase": "Release",
+          "phase_key": "release",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "release-monitor-feedback-and-crashes",
+          "title": "Monitor feedback and crashes",
+          "phase": "Release",
+          "phase_key": "release",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "changing-feature-scope",
+          "title": "Changing feature scope",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "app-store-rejection",
+          "title": "App store rejection",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "api-instability",
+          "title": "API instability",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "device-compatibility-issues",
+          "title": "Device compatibility issues",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "delays-in-testing",
+          "title": "Delays in testing",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "office-relocation",
+      "title": "Office Relocation",
+      "description": "A project to move office operations from one location to another with minimal business disruption.",
+      "wizard_summary": "Creates an office relocation project covering planning, logistics, vendors, IT readiness, physical move, and operational stabilization.",
+      "phases": [
+        {
+          "key": "planning",
+          "title": "Planning"
+        },
+        {
+          "key": "site-preparation",
+          "title": "Site Preparation"
+        },
+        {
+          "key": "vendor-and-logistics-coordination",
+          "title": "Vendor and Logistics Coordination"
+        },
+        {
+          "key": "it-and-facilities-readiness",
+          "title": "IT and Facilities Readiness"
+        },
+        {
+          "key": "move-execution",
+          "title": "Move Execution"
+        },
+        {
+          "key": "stabilization",
+          "title": "Stabilization"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "new-site-ready",
+          "title": "New site ready",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "it-infrastructure-ready",
+          "title": "IT infrastructure ready",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "move-completed",
+          "title": "Move completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "operations-resumed",
+          "title": "Operations resumed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "post-move-closure-completed",
+          "title": "Post-move closure completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "planning-confirm-relocation-objectives",
+          "title": "Confirm relocation objectives",
+          "phase": "Planning",
+          "phase_key": "planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "planning-define-relocation-date",
+          "title": "Define relocation date",
+          "phase": "Planning",
+          "phase_key": "planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "planning-prepare-move-scope",
+          "title": "Prepare move scope",
+          "phase": "Planning",
+          "phase_key": "planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "planning-identify-teams-affected",
+          "title": "Identify teams affected",
+          "phase": "Planning",
+          "phase_key": "planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "planning-assign-move-coordinator",
+          "title": "Assign move coordinator",
+          "phase": "Planning",
+          "phase_key": "planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "site-preparation-review-new-office-layout",
+          "title": "Review new office layout",
+          "phase": "Site Preparation",
+          "phase_key": "site-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "site-preparation-confirm-furniture-requirements",
+          "title": "Confirm furniture requirements",
+          "phase": "Site Preparation",
+          "phase_key": "site-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "site-preparation-confirm-utilities-readiness",
+          "title": "Confirm utilities readiness",
+          "phase": "Site Preparation",
+          "phase_key": "site-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "site-preparation-confirm-security-and-access-setup",
+          "title": "Confirm security and access setup",
+          "phase": "Site Preparation",
+          "phase_key": "site-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "site-preparation-confirm-health-and-safety-checks",
+          "title": "Confirm health and safety checks",
+          "phase": "Site Preparation",
+          "phase_key": "site-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "vendor-and-logistics-coordination-select-moving-company",
+          "title": "Select moving company",
+          "phase": "Vendor and Logistics Coordination",
+          "phase_key": "vendor-and-logistics-coordination",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "vendor-and-logistics-coordination-prepare-packing-plan",
+          "title": "Prepare packing plan",
+          "phase": "Vendor and Logistics Coordination",
+          "phase_key": "vendor-and-logistics-coordination",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "vendor-and-logistics-coordination-confirm-transport-schedule",
+          "title": "Confirm transport schedule",
+          "phase": "Vendor and Logistics Coordination",
+          "phase_key": "vendor-and-logistics-coordination",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "vendor-and-logistics-coordination-confirm-disposal-storage-needs",
+          "title": "Confirm disposal/storage needs",
+          "phase": "Vendor and Logistics Coordination",
+          "phase_key": "vendor-and-logistics-coordination",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "vendor-and-logistics-coordination-communicate-move-instructions",
+          "title": "Communicate move instructions",
+          "phase": "Vendor and Logistics Coordination",
+          "phase_key": "vendor-and-logistics-coordination",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "it-and-facilities-readiness-prepare-network-setup",
+          "title": "Prepare network setup",
+          "phase": "IT and Facilities Readiness",
+          "phase_key": "it-and-facilities-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "it-and-facilities-readiness-prepare-internet-and-telephony",
+          "title": "Prepare internet and telephony",
+          "phase": "IT and Facilities Readiness",
+          "phase_key": "it-and-facilities-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "it-and-facilities-readiness-move-servers-equipment-if-needed",
+          "title": "Move servers/equipment if needed",
+          "phase": "IT and Facilities Readiness",
+          "phase_key": "it-and-facilities-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "it-and-facilities-readiness-set-up-printers-and-meeting-rooms",
+          "title": "Set up printers and meeting rooms",
+          "phase": "IT and Facilities Readiness",
+          "phase_key": "it-and-facilities-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "it-and-facilities-readiness-validate-workstation-readiness",
+          "title": "Validate workstation readiness",
+          "phase": "IT and Facilities Readiness",
+          "phase_key": "it-and-facilities-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "move-execution-pack-departmental-assets",
+          "title": "Pack departmental assets",
+          "phase": "Move Execution",
+          "phase_key": "move-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "move-execution-label-boxes-and-equipment",
+          "title": "Label boxes and equipment",
+          "phase": "Move Execution",
+          "phase_key": "move-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "move-execution-perform-physical-move",
+          "title": "Perform physical move",
+          "phase": "Move Execution",
+          "phase_key": "move-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "move-execution-install-teams-in-new-office",
+          "title": "Install teams in new office",
+          "phase": "Move Execution",
+          "phase_key": "move-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "move-execution-verify-critical-services",
+          "title": "Verify critical services",
+          "phase": "Move Execution",
+          "phase_key": "move-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "stabilization-resolve-post-move-issues",
+          "title": "Resolve post-move issues",
+          "phase": "Stabilization",
+          "phase_key": "stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "stabilization-confirm-staff-readiness",
+          "title": "Confirm staff readiness",
+          "phase": "Stabilization",
+          "phase_key": "stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "stabilization-close-vendor-items",
+          "title": "Close vendor items",
+          "phase": "Stabilization",
+          "phase_key": "stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "stabilization-collect-feedback",
+          "title": "Collect feedback",
+          "phase": "Stabilization",
+          "phase_key": "stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "stabilization-finalize-move-report",
+          "title": "Finalize move report",
+          "phase": "Stabilization",
+          "phase_key": "stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "delays-in-new-site-readiness",
+          "title": "Delays in new site readiness",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "equipment-damage",
+          "title": "Equipment damage",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "network-or-internet-downtime",
+          "title": "Network or internet downtime",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "missing-items-during-move",
+          "title": "Missing items during move",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "business-disruption-longer-than-planned",
+          "title": "Business disruption longer than planned",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "marketing-campaign",
+      "title": "Marketing Campaign",
+      "description": "A project to plan and execute a marketing campaign across digital, offline, or mixed channels.",
+      "wizard_summary": "Creates a campaign project with strategy, content preparation, creative production, launch, monitoring, and closure tasks.",
+      "phases": [
+        {
+          "key": "campaign-planning",
+          "title": "Campaign Planning"
+        },
+        {
+          "key": "messaging-and-creative-brief",
+          "title": "Messaging and Creative Brief"
+        },
+        {
+          "key": "asset-production",
+          "title": "Asset Production"
+        },
+        {
+          "key": "campaign-setup",
+          "title": "Campaign Setup"
+        },
+        {
+          "key": "launch-and-monitoring",
+          "title": "Launch and Monitoring"
+        },
+        {
+          "key": "reporting-and-closure",
+          "title": "Reporting and Closure"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "campaign-plan-approved",
+          "title": "Campaign plan approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "creative-approved",
+          "title": "Creative approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "campaign-launched",
+          "title": "Campaign launched",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "mid-campaign-review-completed",
+          "title": "Mid-campaign review completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "final-report-completed",
+          "title": "Final report completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "campaign-planning-define-campaign-objective",
+          "title": "Define campaign objective",
+          "phase": "Campaign Planning",
+          "phase_key": "campaign-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-planning-define-audience-segments",
+          "title": "Define audience segments",
+          "phase": "Campaign Planning",
+          "phase_key": "campaign-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-planning-set-kpis",
+          "title": "Set KPIs",
+          "phase": "Campaign Planning",
+          "phase_key": "campaign-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-planning-confirm-channels",
+          "title": "Confirm channels",
+          "phase": "Campaign Planning",
+          "phase_key": "campaign-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-planning-approve-budget",
+          "title": "Approve budget",
+          "phase": "Campaign Planning",
+          "phase_key": "campaign-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "messaging-and-creative-brief-define-key-campaign-message",
+          "title": "Define key campaign message",
+          "phase": "Messaging and Creative Brief",
+          "phase_key": "messaging-and-creative-brief",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "messaging-and-creative-brief-prepare-creative-brief",
+          "title": "Prepare creative brief",
+          "phase": "Messaging and Creative Brief",
+          "phase_key": "messaging-and-creative-brief",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "messaging-and-creative-brief-define-content-themes",
+          "title": "Define content themes",
+          "phase": "Messaging and Creative Brief",
+          "phase_key": "messaging-and-creative-brief",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "messaging-and-creative-brief-confirm-offer-or-cta",
+          "title": "Confirm offer or CTA",
+          "phase": "Messaging and Creative Brief",
+          "phase_key": "messaging-and-creative-brief",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "messaging-and-creative-brief-approve-campaign-concept",
+          "title": "Approve campaign concept",
+          "phase": "Messaging and Creative Brief",
+          "phase_key": "messaging-and-creative-brief",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "asset-production-design-visuals",
+          "title": "Design visuals",
+          "phase": "Asset Production",
+          "phase_key": "asset-production",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "asset-production-write-campaign-copy",
+          "title": "Write campaign copy",
+          "phase": "Asset Production",
+          "phase_key": "asset-production",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "asset-production-prepare-landing-pages",
+          "title": "Prepare landing pages",
+          "phase": "Asset Production",
+          "phase_key": "asset-production",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "asset-production-prepare-email-or-social-assets",
+          "title": "Prepare email or social assets",
+          "phase": "Asset Production",
+          "phase_key": "asset-production",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "asset-production-review-and-approve-materials",
+          "title": "Review and approve materials",
+          "phase": "Asset Production",
+          "phase_key": "asset-production",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-setup-configure-ad-accounts",
+          "title": "Configure ad accounts",
+          "phase": "Campaign Setup",
+          "phase_key": "campaign-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-setup-configure-targeting",
+          "title": "Configure targeting",
+          "phase": "Campaign Setup",
+          "phase_key": "campaign-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-setup-set-campaign-schedules",
+          "title": "Set campaign schedules",
+          "phase": "Campaign Setup",
+          "phase_key": "campaign-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-setup-set-tracking-links",
+          "title": "Set tracking links",
+          "phase": "Campaign Setup",
+          "phase_key": "campaign-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "campaign-setup-test-forms-or-landing-pages",
+          "title": "Test forms or landing pages",
+          "phase": "Campaign Setup",
+          "phase_key": "campaign-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-and-monitoring-launch-campaign",
+          "title": "Launch campaign",
+          "phase": "Launch and Monitoring",
+          "phase_key": "launch-and-monitoring",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-and-monitoring-monitor-daily-performance",
+          "title": "Monitor daily performance",
+          "phase": "Launch and Monitoring",
+          "phase_key": "launch-and-monitoring",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-and-monitoring-adjust-budget-allocation",
+          "title": "Adjust budget allocation",
+          "phase": "Launch and Monitoring",
+          "phase_key": "launch-and-monitoring",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-and-monitoring-optimize-messaging-targeting",
+          "title": "Optimize messaging/targeting",
+          "phase": "Launch and Monitoring",
+          "phase_key": "launch-and-monitoring",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-and-monitoring-track-leads-or-conversions",
+          "title": "Track leads or conversions",
+          "phase": "Launch and Monitoring",
+          "phase_key": "launch-and-monitoring",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "reporting-and-closure-compile-performance-results",
+          "title": "Compile performance results",
+          "phase": "Reporting and Closure",
+          "phase_key": "reporting-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "reporting-and-closure-compare-kpis-vs-targets",
+          "title": "Compare KPIs vs targets",
+          "phase": "Reporting and Closure",
+          "phase_key": "reporting-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "reporting-and-closure-document-lessons-learned",
+          "title": "Document lessons learned",
+          "phase": "Reporting and Closure",
+          "phase_key": "reporting-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "reporting-and-closure-archive-assets",
+          "title": "Archive assets",
+          "phase": "Reporting and Closure",
+          "phase_key": "reporting-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "reporting-and-closure-present-final-report",
+          "title": "Present final report",
+          "phase": "Reporting and Closure",
+          "phase_key": "reporting-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "weak-targeting",
+          "title": "Weak targeting",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "delayed-creative-approvals",
+          "title": "Delayed creative approvals",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "tracking-setup-errors",
+          "title": "Tracking setup errors",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "low-conversion-rates",
+          "title": "Low conversion rates",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "budget-overspend",
+          "title": "Budget overspend",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "employee-onboarding-program-setup",
+      "title": "Employee Onboarding Program Setup",
+      "description": "A project to create or improve a standardized onboarding program for new employees.",
+      "wizard_summary": "Creates a project for designing onboarding structure, documents, responsibilities, training, and rollout.",
+      "phases": [
+        {
+          "key": "assessment",
+          "title": "Assessment"
+        },
+        {
+          "key": "program-design",
+          "title": "Program Design"
+        },
+        {
+          "key": "materials-preparation",
+          "title": "Materials Preparation"
+        },
+        {
+          "key": "workflow-and-tools-setup",
+          "title": "Workflow and Tools Setup"
+        },
+        {
+          "key": "pilot-rollout",
+          "title": "Pilot Rollout"
+        },
+        {
+          "key": "full-rollout",
+          "title": "Full Rollout"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "process-design-approved",
+          "title": "Process design approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "materials-ready",
+          "title": "Materials ready",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "pilot-completed",
+          "title": "Pilot completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "final-process-approved",
+          "title": "Final process approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "program-launched",
+          "title": "Program launched",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "assessment-review-current-onboarding-process",
+          "title": "Review current onboarding process",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-identify-gaps",
+          "title": "Identify gaps",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-gather-stakeholder-input",
+          "title": "Gather stakeholder input",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-define-onboarding-goals",
+          "title": "Define onboarding goals",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-confirm-scope",
+          "title": "Confirm scope",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "program-design-define-onboarding-stages",
+          "title": "Define onboarding stages",
+          "phase": "Program Design",
+          "phase_key": "program-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "program-design-define-department-responsibilities",
+          "title": "Define department responsibilities",
+          "phase": "Program Design",
+          "phase_key": "program-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "program-design-prepare-onboarding-checklist",
+          "title": "Prepare onboarding checklist",
+          "phase": "Program Design",
+          "phase_key": "program-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "program-design-define-orientation-content",
+          "title": "Define orientation content",
+          "phase": "Program Design",
+          "phase_key": "program-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "program-design-define-probation-follow-up-steps",
+          "title": "Define probation follow-up steps",
+          "phase": "Program Design",
+          "phase_key": "program-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "materials-preparation-prepare-welcome-materials",
+          "title": "Prepare welcome materials",
+          "phase": "Materials Preparation",
+          "phase_key": "materials-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "materials-preparation-prepare-policies-and-handbook",
+          "title": "Prepare policies and handbook",
+          "phase": "Materials Preparation",
+          "phase_key": "materials-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "materials-preparation-prepare-training-schedule",
+          "title": "Prepare training schedule",
+          "phase": "Materials Preparation",
+          "phase_key": "materials-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "materials-preparation-prepare-manager-guides",
+          "title": "Prepare manager guides",
+          "phase": "Materials Preparation",
+          "phase_key": "materials-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "materials-preparation-prepare-hr-forms",
+          "title": "Prepare HR forms",
+          "phase": "Materials Preparation",
+          "phase_key": "materials-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "workflow-and-tools-setup-configure-onboarding-workflow",
+          "title": "Configure onboarding workflow",
+          "phase": "Workflow and Tools Setup",
+          "phase_key": "workflow-and-tools-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "workflow-and-tools-setup-define-approvals-and-notifications",
+          "title": "Define approvals and notifications",
+          "phase": "Workflow and Tools Setup",
+          "phase_key": "workflow-and-tools-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "workflow-and-tools-setup-set-up-document-repository",
+          "title": "Set up document repository",
+          "phase": "Workflow and Tools Setup",
+          "phase_key": "workflow-and-tools-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "workflow-and-tools-setup-assign-owners",
+          "title": "Assign owners",
+          "phase": "Workflow and Tools Setup",
+          "phase_key": "workflow-and-tools-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "workflow-and-tools-setup-prepare-tracking-method",
+          "title": "Prepare tracking method",
+          "phase": "Workflow and Tools Setup",
+          "phase_key": "workflow-and-tools-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-rollout-run-pilot-onboarding-batch",
+          "title": "Run pilot onboarding batch",
+          "phase": "Pilot Rollout",
+          "phase_key": "pilot-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-rollout-collect-new-hire-feedback",
+          "title": "Collect new hire feedback",
+          "phase": "Pilot Rollout",
+          "phase_key": "pilot-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-rollout-collect-manager-feedback",
+          "title": "Collect manager feedback",
+          "phase": "Pilot Rollout",
+          "phase_key": "pilot-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-rollout-adjust-checklists-and-materials",
+          "title": "Adjust checklists and materials",
+          "phase": "Pilot Rollout",
+          "phase_key": "pilot-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-rollout-approve-final-process",
+          "title": "Approve final process",
+          "phase": "Pilot Rollout",
+          "phase_key": "pilot-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "full-rollout-launch-full-onboarding-program",
+          "title": "Launch full onboarding program",
+          "phase": "Full Rollout",
+          "phase_key": "full-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "full-rollout-train-hr-and-managers",
+          "title": "Train HR and managers",
+          "phase": "Full Rollout",
+          "phase_key": "full-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "full-rollout-monitor-completion",
+          "title": "Monitor completion",
+          "phase": "Full Rollout",
+          "phase_key": "full-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "full-rollout-track-onboarding-kpis",
+          "title": "Track onboarding KPIs",
+          "phase": "Full Rollout",
+          "phase_key": "full-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "full-rollout-close-setup-project",
+          "title": "Close setup project",
+          "phase": "Full Rollout",
+          "phase_key": "full-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "incomplete-ownership-between-departments",
+          "title": "Incomplete ownership between departments",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "missing-onboarding-documents",
+          "title": "Missing onboarding documents",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "poor-manager-involvement",
+          "title": "Poor manager involvement",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "low-process-adoption",
+          "title": "Low process adoption",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "inconsistent-execution",
+          "title": "Inconsistent execution",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "product-launch",
+      "title": "Product Launch",
+      "description": "A project to prepare and release a new product to market.",
+      "wizard_summary": "Creates a launch project covering planning, readiness, operational setup, launch execution, and post-launch review.",
+      "phases": [
+        {
+          "key": "launch-planning",
+          "title": "Launch Planning"
+        },
+        {
+          "key": "readiness-preparation",
+          "title": "Readiness Preparation"
+        },
+        {
+          "key": "sales-and-operations-readiness",
+          "title": "Sales and Operations Readiness"
+        },
+        {
+          "key": "marketing-preparation",
+          "title": "Marketing Preparation"
+        },
+        {
+          "key": "launch-execution",
+          "title": "Launch Execution"
+        },
+        {
+          "key": "post-launch-review",
+          "title": "Post-Launch Review"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "launch-plan-approved",
+          "title": "Launch plan approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "product-ready-for-market",
+          "title": "Product ready for market",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "internal-teams-trained",
+          "title": "Internal teams trained",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "product-launched",
+          "title": "Product launched",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "post-launch-review-completed",
+          "title": "Post-launch review completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "launch-planning-define-product-positioning",
+          "title": "Define product positioning",
+          "phase": "Launch Planning",
+          "phase_key": "launch-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-planning-define-target-market",
+          "title": "Define target market",
+          "phase": "Launch Planning",
+          "phase_key": "launch-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-planning-define-launch-goals",
+          "title": "Define launch goals",
+          "phase": "Launch Planning",
+          "phase_key": "launch-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-planning-identify-launch-dependencies",
+          "title": "Identify launch dependencies",
+          "phase": "Launch Planning",
+          "phase_key": "launch-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-planning-prepare-launch-plan",
+          "title": "Prepare launch plan",
+          "phase": "Launch Planning",
+          "phase_key": "launch-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "readiness-preparation-confirm-product-readiness",
+          "title": "Confirm product readiness",
+          "phase": "Readiness Preparation",
+          "phase_key": "readiness-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "readiness-preparation-confirm-pricing",
+          "title": "Confirm pricing",
+          "phase": "Readiness Preparation",
+          "phase_key": "readiness-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "readiness-preparation-confirm-packaging-or-presentation",
+          "title": "Confirm packaging or presentation",
+          "phase": "Readiness Preparation",
+          "phase_key": "readiness-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "readiness-preparation-confirm-sales-materials",
+          "title": "Confirm sales materials",
+          "phase": "Readiness Preparation",
+          "phase_key": "readiness-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "readiness-preparation-confirm-internal-approvals",
+          "title": "Confirm internal approvals",
+          "phase": "Readiness Preparation",
+          "phase_key": "readiness-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "sales-and-operations-readiness-train-sales-team",
+          "title": "Train sales team",
+          "phase": "Sales and Operations Readiness",
+          "phase_key": "sales-and-operations-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "sales-and-operations-readiness-train-support-team",
+          "title": "Train support team",
+          "phase": "Sales and Operations Readiness",
+          "phase_key": "sales-and-operations-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "sales-and-operations-readiness-prepare-faqs",
+          "title": "Prepare FAQs",
+          "phase": "Sales and Operations Readiness",
+          "phase_key": "sales-and-operations-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "sales-and-operations-readiness-confirm-inventory-or-delivery-readiness",
+          "title": "Confirm inventory or delivery readiness",
+          "phase": "Sales and Operations Readiness",
+          "phase_key": "sales-and-operations-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "sales-and-operations-readiness-confirm-reporting-measures",
+          "title": "Confirm reporting measures",
+          "phase": "Sales and Operations Readiness",
+          "phase_key": "sales-and-operations-readiness",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "marketing-preparation-prepare-launch-campaign",
+          "title": "Prepare launch campaign",
+          "phase": "Marketing Preparation",
+          "phase_key": "marketing-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "marketing-preparation-prepare-website-product-page",
+          "title": "Prepare website/product page",
+          "phase": "Marketing Preparation",
+          "phase_key": "marketing-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "marketing-preparation-prepare-social-email-assets",
+          "title": "Prepare social/email assets",
+          "phase": "Marketing Preparation",
+          "phase_key": "marketing-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "marketing-preparation-prepare-pr-or-announcement",
+          "title": "Prepare PR or announcement",
+          "phase": "Marketing Preparation",
+          "phase_key": "marketing-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "marketing-preparation-review-launch-messaging",
+          "title": "Review launch messaging",
+          "phase": "Marketing Preparation",
+          "phase_key": "marketing-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-execution-release-product",
+          "title": "Release product",
+          "phase": "Launch Execution",
+          "phase_key": "launch-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-execution-activate-campaign",
+          "title": "Activate campaign",
+          "phase": "Launch Execution",
+          "phase_key": "launch-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-execution-monitor-orders-or-inquiries",
+          "title": "Monitor orders or inquiries",
+          "phase": "Launch Execution",
+          "phase_key": "launch-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-execution-resolve-launch-day-issues",
+          "title": "Resolve launch-day issues",
+          "phase": "Launch Execution",
+          "phase_key": "launch-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "launch-execution-support-internal-teams",
+          "title": "Support internal teams",
+          "phase": "Launch Execution",
+          "phase_key": "launch-execution",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "post-launch-review-review-performance-results",
+          "title": "Review performance results",
+          "phase": "Post-Launch Review",
+          "phase_key": "post-launch-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "post-launch-review-gather-customer-feedback",
+          "title": "Gather customer feedback",
+          "phase": "Post-Launch Review",
+          "phase_key": "post-launch-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "post-launch-review-identify-issues-opportunities",
+          "title": "Identify issues/opportunities",
+          "phase": "Post-Launch Review",
+          "phase_key": "post-launch-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "post-launch-review-agree-improvement-actions",
+          "title": "Agree improvement actions",
+          "phase": "Post-Launch Review",
+          "phase_key": "post-launch-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "post-launch-review-close-launch-project",
+          "title": "Close launch project",
+          "phase": "Post-Launch Review",
+          "phase_key": "post-launch-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "product-not-fully-ready",
+          "title": "Product not fully ready",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "pricing-confusion",
+          "title": "Pricing confusion",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "sales-team-not-prepared",
+          "title": "Sales team not prepared",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "supply-logistics-delays",
+          "title": "Supply/logistics delays",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "weak-launch-communications",
+          "title": "Weak launch communications",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "business-process-improvement",
+      "title": "Business Process Improvement",
+      "description": "A project to review and improve an existing business process for efficiency, quality, control, or speed.",
+      "wizard_summary": "Creates an improvement project with current-state assessment, redesign, pilot implementation, and performance review.",
+      "phases": [
+        {
+          "key": "initiation-and-scope",
+          "title": "Initiation and Scope"
+        },
+        {
+          "key": "current-state-analysis",
+          "title": "Current State Analysis"
+        },
+        {
+          "key": "future-state-design",
+          "title": "Future State Design"
+        },
+        {
+          "key": "implementation-planning",
+          "title": "Implementation Planning"
+        },
+        {
+          "key": "pilot-and-rollout",
+          "title": "Pilot and Rollout"
+        },
+        {
+          "key": "review-and-stabilization",
+          "title": "Review and Stabilization"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "current-state-analysis-completed",
+          "title": "Current-state analysis completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "future-state-approved",
+          "title": "Future-state approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "pilot-completed",
+          "title": "Pilot completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "process-rolled-out",
+          "title": "Process rolled out",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "kpi-review-completed",
+          "title": "KPI review completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "initiation-and-scope-define-process-in-scope",
+          "title": "Define process in scope",
+          "phase": "Initiation and Scope",
+          "phase_key": "initiation-and-scope",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-and-scope-define-business-issue",
+          "title": "Define business issue",
+          "phase": "Initiation and Scope",
+          "phase_key": "initiation-and-scope",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-and-scope-identify-stakeholders",
+          "title": "Identify stakeholders",
+          "phase": "Initiation and Scope",
+          "phase_key": "initiation-and-scope",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-and-scope-set-success-metrics",
+          "title": "Set success metrics",
+          "phase": "Initiation and Scope",
+          "phase_key": "initiation-and-scope",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "initiation-and-scope-approve-improvement-charter",
+          "title": "Approve improvement charter",
+          "phase": "Initiation and Scope",
+          "phase_key": "initiation-and-scope",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "current-state-analysis-document-current-workflow",
+          "title": "Document current workflow",
+          "phase": "Current State Analysis",
+          "phase_key": "current-state-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "current-state-analysis-identify-bottlenecks",
+          "title": "Identify bottlenecks",
+          "phase": "Current State Analysis",
+          "phase_key": "current-state-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "current-state-analysis-gather-baseline-data",
+          "title": "Gather baseline data",
+          "phase": "Current State Analysis",
+          "phase_key": "current-state-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "current-state-analysis-identify-pain-points",
+          "title": "Identify pain points",
+          "phase": "Current State Analysis",
+          "phase_key": "current-state-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "current-state-analysis-validate-findings",
+          "title": "Validate findings",
+          "phase": "Current State Analysis",
+          "phase_key": "current-state-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "future-state-design-design-improved-process",
+          "title": "Design improved process",
+          "phase": "Future State Design",
+          "phase_key": "future-state-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "future-state-design-define-controls-and-approvals",
+          "title": "Define controls and approvals",
+          "phase": "Future State Design",
+          "phase_key": "future-state-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "future-state-design-define-roles-and-responsibilities",
+          "title": "Define roles and responsibilities",
+          "phase": "Future State Design",
+          "phase_key": "future-state-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "future-state-design-identify-system-tool-changes",
+          "title": "Identify system/tool changes",
+          "phase": "Future State Design",
+          "phase_key": "future-state-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "future-state-design-review-future-state-design",
+          "title": "Review future-state design",
+          "phase": "Future State Design",
+          "phase_key": "future-state-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-planning-define-action-plan",
+          "title": "Define action plan",
+          "phase": "Implementation Planning",
+          "phase_key": "implementation-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-planning-assign-owners",
+          "title": "Assign owners",
+          "phase": "Implementation Planning",
+          "phase_key": "implementation-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-planning-prepare-training-or-communications",
+          "title": "Prepare training or communications",
+          "phase": "Implementation Planning",
+          "phase_key": "implementation-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-planning-prepare-system-config-changes",
+          "title": "Prepare system/config changes",
+          "phase": "Implementation Planning",
+          "phase_key": "implementation-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-planning-confirm-pilot-scope",
+          "title": "Confirm pilot scope",
+          "phase": "Implementation Planning",
+          "phase_key": "implementation-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-and-rollout-execute-pilot",
+          "title": "Execute pilot",
+          "phase": "Pilot and Rollout",
+          "phase_key": "pilot-and-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-and-rollout-monitor-pilot-results",
+          "title": "Monitor pilot results",
+          "phase": "Pilot and Rollout",
+          "phase_key": "pilot-and-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-and-rollout-resolve-issues",
+          "title": "Resolve issues",
+          "phase": "Pilot and Rollout",
+          "phase_key": "pilot-and-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-and-rollout-roll-out-improved-process",
+          "title": "Roll out improved process",
+          "phase": "Pilot and Rollout",
+          "phase_key": "pilot-and-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-and-rollout-support-adoption",
+          "title": "Support adoption",
+          "phase": "Pilot and Rollout",
+          "phase_key": "pilot-and-rollout",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "review-and-stabilization-measure-kpi-improvement",
+          "title": "Measure KPI improvement",
+          "phase": "Review and Stabilization",
+          "phase_key": "review-and-stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "review-and-stabilization-gather-feedback",
+          "title": "Gather feedback",
+          "phase": "Review and Stabilization",
+          "phase_key": "review-and-stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "review-and-stabilization-adjust-process-documents",
+          "title": "Adjust process documents",
+          "phase": "Review and Stabilization",
+          "phase_key": "review-and-stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "review-and-stabilization-finalize-sops",
+          "title": "Finalize SOPs",
+          "phase": "Review and Stabilization",
+          "phase_key": "review-and-stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "review-and-stabilization-close-project",
+          "title": "Close project",
+          "phase": "Review and Stabilization",
+          "phase_key": "review-and-stabilization",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "resistance-to-change",
+          "title": "Resistance to change",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "weak-stakeholder-involvement",
+          "title": "Weak stakeholder involvement",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "poor-baseline-data",
+          "title": "Poor baseline data",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "unclear-ownership",
+          "title": "Unclear ownership",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "process-changes-not-sustained",
+          "title": "Process changes not sustained",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "infrastructure-upgrade",
+      "title": "Infrastructure Upgrade",
+      "description": "A project to upgrade servers, networks, storage, security, or core IT infrastructure.",
+      "wizard_summary": "Creates an infrastructure project with assessment, design, procurement, implementation, testing, and transition tasks.",
+      "phases": [
+        {
+          "key": "assessment",
+          "title": "Assessment"
+        },
+        {
+          "key": "design-and-planning",
+          "title": "Design and Planning"
+        },
+        {
+          "key": "procurement-and-preparation",
+          "title": "Procurement and Preparation"
+        },
+        {
+          "key": "implementation",
+          "title": "Implementation"
+        },
+        {
+          "key": "testing",
+          "title": "Testing"
+        },
+        {
+          "key": "handover-and-closure",
+          "title": "Handover and Closure"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "design-approved",
+          "title": "Design approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "procurement-completed",
+          "title": "Procurement completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "implementation-completed",
+          "title": "Implementation completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "testing-signed-off",
+          "title": "Testing signed off",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "handover-completed",
+          "title": "Handover completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "assessment-assess-current-environment",
+          "title": "Assess current environment",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-identify-capacity-performance-gaps",
+          "title": "Identify capacity/performance gaps",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-define-target-architecture",
+          "title": "Define target architecture",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-confirm-scope",
+          "title": "Confirm scope",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "assessment-prepare-business-justification",
+          "title": "Prepare business justification",
+          "phase": "Assessment",
+          "phase_key": "assessment",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-and-planning-prepare-technical-design",
+          "title": "Prepare technical design",
+          "phase": "Design and Planning",
+          "phase_key": "design-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-and-planning-define-upgrade-path",
+          "title": "Define upgrade path",
+          "phase": "Design and Planning",
+          "phase_key": "design-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-and-planning-define-downtime-requirements",
+          "title": "Define downtime requirements",
+          "phase": "Design and Planning",
+          "phase_key": "design-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-and-planning-define-rollback-approach",
+          "title": "Define rollback approach",
+          "phase": "Design and Planning",
+          "phase_key": "design-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "design-and-planning-approve-implementation-plan",
+          "title": "Approve implementation plan",
+          "phase": "Design and Planning",
+          "phase_key": "design-and-planning",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "procurement-and-preparation-finalize-bom-or-requirements",
+          "title": "Finalize BOM or requirements",
+          "phase": "Procurement and Preparation",
+          "phase_key": "procurement-and-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "procurement-and-preparation-obtain-quotations",
+          "title": "Obtain quotations",
+          "phase": "Procurement and Preparation",
+          "phase_key": "procurement-and-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "procurement-and-preparation-select-vendors",
+          "title": "Select vendors",
+          "phase": "Procurement and Preparation",
+          "phase_key": "procurement-and-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "procurement-and-preparation-prepare-environments",
+          "title": "Prepare environments",
+          "phase": "Procurement and Preparation",
+          "phase_key": "procurement-and-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "procurement-and-preparation-confirm-delivery-schedule",
+          "title": "Confirm delivery schedule",
+          "phase": "Procurement and Preparation",
+          "phase_key": "procurement-and-preparation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-install-or-configure-components",
+          "title": "Install or configure components",
+          "phase": "Implementation",
+          "phase_key": "implementation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-migrate-services-data",
+          "title": "Migrate services/data",
+          "phase": "Implementation",
+          "phase_key": "implementation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-apply-security-configurations",
+          "title": "Apply security configurations",
+          "phase": "Implementation",
+          "phase_key": "implementation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-update-monitoring",
+          "title": "Update monitoring",
+          "phase": "Implementation",
+          "phase_key": "implementation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "implementation-execute-change-activities",
+          "title": "Execute change activities",
+          "phase": "Implementation",
+          "phase_key": "implementation",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-validate-performance",
+          "title": "Validate performance",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-validate-security",
+          "title": "Validate security",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-test-failover-backup-if-relevant",
+          "title": "Test failover/backup if relevant",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-test-business-services",
+          "title": "Test business services",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "testing-resolve-defects",
+          "title": "Resolve defects",
+          "phase": "Testing",
+          "phase_key": "testing",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "handover-and-closure-update-documentation",
+          "title": "Update documentation",
+          "phase": "Handover and Closure",
+          "phase_key": "handover-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "handover-and-closure-train-support-team",
+          "title": "Train support team",
+          "phase": "Handover and Closure",
+          "phase_key": "handover-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "handover-and-closure-handover-to-operations",
+          "title": "Handover to operations",
+          "phase": "Handover and Closure",
+          "phase_key": "handover-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "handover-and-closure-monitor-stabilization-period",
+          "title": "Monitor stabilization period",
+          "phase": "Handover and Closure",
+          "phase_key": "handover-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "handover-and-closure-close-project",
+          "title": "Close project",
+          "phase": "Handover and Closure",
+          "phase_key": "handover-and-closure",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "hardware-delivery-delays",
+          "title": "Hardware delivery delays",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "downtime-overruns",
+          "title": "Downtime overruns",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "compatibility-problems",
+          "title": "Compatibility problems",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "insufficient-rollback-readiness",
+          "title": "Insufficient rollback readiness",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "unexpected-performance-issues",
+          "title": "Unexpected performance issues",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    },
+    {
+      "key": "training-program-development",
+      "title": "Training Program Development",
+      "description": "A project to design and roll out a structured training program for employees, customers, or partners.",
+      "wizard_summary": "Creates a training project with needs analysis, curriculum design, material preparation, pilot delivery, and rollout tasks.",
+      "phases": [
+        {
+          "key": "needs-analysis",
+          "title": "Needs Analysis"
+        },
+        {
+          "key": "curriculum-design",
+          "title": "Curriculum Design"
+        },
+        {
+          "key": "content-development",
+          "title": "Content Development"
+        },
+        {
+          "key": "logistics-and-setup",
+          "title": "Logistics and Setup"
+        },
+        {
+          "key": "pilot-delivery",
+          "title": "Pilot Delivery"
+        },
+        {
+          "key": "rollout-and-review",
+          "title": "Rollout and Review"
+        }
+      ],
+      "milestones": [
+        {
+          "key": "needs-analysis-completed",
+          "title": "Needs analysis completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "curriculum-approved",
+          "title": "Curriculum approved",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "training-materials-ready",
+          "title": "Training materials ready",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "pilot-completed",
+          "title": "Pilot completed",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        },
+        {
+          "key": "program-launched",
+          "title": "Program launched",
+          "selected": true,
+          "due_date": "",
+          "status": "planned",
+          "dependency_flag": false,
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "key": "needs-analysis-define-target-audience",
+          "title": "Define target audience",
+          "phase": "Needs Analysis",
+          "phase_key": "needs-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "needs-analysis-identify-skill-gaps",
+          "title": "Identify skill gaps",
+          "phase": "Needs Analysis",
+          "phase_key": "needs-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "needs-analysis-define-learning-objectives",
+          "title": "Define learning objectives",
+          "phase": "Needs Analysis",
+          "phase_key": "needs-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "needs-analysis-identify-delivery-method",
+          "title": "Identify delivery method",
+          "phase": "Needs Analysis",
+          "phase_key": "needs-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "needs-analysis-confirm-scope-and-timeline",
+          "title": "Confirm scope and timeline",
+          "phase": "Needs Analysis",
+          "phase_key": "needs-analysis",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "curriculum-design-define-modules",
+          "title": "Define modules",
+          "phase": "Curriculum Design",
+          "phase_key": "curriculum-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "curriculum-design-define-session-structure",
+          "title": "Define session structure",
+          "phase": "Curriculum Design",
+          "phase_key": "curriculum-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "curriculum-design-define-learning-path",
+          "title": "Define learning path",
+          "phase": "Curriculum Design",
+          "phase_key": "curriculum-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "curriculum-design-define-assessments",
+          "title": "Define assessments",
+          "phase": "Curriculum Design",
+          "phase_key": "curriculum-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "curriculum-design-review-curriculum",
+          "title": "Review curriculum",
+          "phase": "Curriculum Design",
+          "phase_key": "curriculum-design",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-development-prepare-slides-and-materials",
+          "title": "Prepare slides and materials",
+          "phase": "Content Development",
+          "phase_key": "content-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-development-prepare-exercises",
+          "title": "Prepare exercises",
+          "phase": "Content Development",
+          "phase_key": "content-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-development-prepare-instructor-guide",
+          "title": "Prepare instructor guide",
+          "phase": "Content Development",
+          "phase_key": "content-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-development-prepare-participant-handouts",
+          "title": "Prepare participant handouts",
+          "phase": "Content Development",
+          "phase_key": "content-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "content-development-review-content-quality",
+          "title": "Review content quality",
+          "phase": "Content Development",
+          "phase_key": "content-development",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "logistics-and-setup-schedule-sessions",
+          "title": "Schedule sessions",
+          "phase": "Logistics and Setup",
+          "phase_key": "logistics-and-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "logistics-and-setup-book-venues-or-online-tools",
+          "title": "Book venues or online tools",
+          "phase": "Logistics and Setup",
+          "phase_key": "logistics-and-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "logistics-and-setup-assign-trainers",
+          "title": "Assign trainers",
+          "phase": "Logistics and Setup",
+          "phase_key": "logistics-and-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "logistics-and-setup-prepare-registration-process",
+          "title": "Prepare registration process",
+          "phase": "Logistics and Setup",
+          "phase_key": "logistics-and-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "logistics-and-setup-confirm-communication-plan",
+          "title": "Confirm communication plan",
+          "phase": "Logistics and Setup",
+          "phase_key": "logistics-and-setup",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-delivery-deliver-pilot-session",
+          "title": "Deliver pilot session",
+          "phase": "Pilot Delivery",
+          "phase_key": "pilot-delivery",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-delivery-collect-participant-feedback",
+          "title": "Collect participant feedback",
+          "phase": "Pilot Delivery",
+          "phase_key": "pilot-delivery",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-delivery-assess-learning-outcomes",
+          "title": "Assess learning outcomes",
+          "phase": "Pilot Delivery",
+          "phase_key": "pilot-delivery",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-delivery-improve-materials",
+          "title": "Improve materials",
+          "phase": "Pilot Delivery",
+          "phase_key": "pilot-delivery",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "pilot-delivery-approve-final-version",
+          "title": "Approve final version",
+          "phase": "Pilot Delivery",
+          "phase_key": "pilot-delivery",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "rollout-and-review-launch-full-program",
+          "title": "Launch full program",
+          "phase": "Rollout and Review",
+          "phase_key": "rollout-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "rollout-and-review-track-attendance-completion",
+          "title": "Track attendance/completion",
+          "phase": "Rollout and Review",
+          "phase_key": "rollout-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "rollout-and-review-measure-effectiveness",
+          "title": "Measure effectiveness",
+          "phase": "Rollout and Review",
+          "phase_key": "rollout-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "rollout-and-review-document-lessons-learned",
+          "title": "Document lessons learned",
+          "phase": "Rollout and Review",
+          "phase_key": "rollout-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        },
+        {
+          "key": "rollout-and-review-close-project",
+          "title": "Close project",
+          "phase": "Rollout and Review",
+          "phase_key": "rollout-and-review",
+          "selected": true,
+          "priority": "normal",
+          "status": "new",
+          "start_date": "",
+          "due_date": ""
+        }
+      ],
+      "risks": [
+        {
+          "key": "unclear-training-objectives",
+          "title": "Unclear training objectives",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "weak-attendance",
+          "title": "Weak attendance",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "poor-content-quality",
+          "title": "Poor content quality",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "scheduling-conflicts",
+          "title": "Scheduling conflicts",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        },
+        {
+          "key": "low-engagement-from-participants",
+          "title": "Low engagement from participants",
+          "object_type": "risk",
+          "selected": true,
+          "severity": "medium",
+          "impact": "medium",
+          "likelihood": "medium",
+          "status": "identified",
+          "mitigation_plan": "",
+          "target_resolution_date": ""
+        }
+      ],
+      "summary": {
+        "phase_count": 6,
+        "milestone_count": 5,
+        "task_count": 30,
+        "risk_count": 5
+      }
+    }
+  ]
+}
